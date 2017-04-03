@@ -9,8 +9,9 @@
      static  void printNum() {
 
          def x = 12
-         def y = "kkkfkfkf"
         println x.toString()
+
+         def y = "dsddddddddd"
 
     }
 
