@@ -8,8 +8,10 @@
 
      static  void printNum() {
 
-        def x = 12
+         def x = 12
+         def y = "kkkfkfkf"
         println x.toString()
+
     }
 
 
